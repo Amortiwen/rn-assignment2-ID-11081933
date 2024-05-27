@@ -13,7 +13,6 @@ This project is a simple React Native application that changes the background co
 The task for this project was to create a React Native application that changes the background color and displays the user's name in bold text.
 
 ## Screenshot
-![App Screenshot](assets/EXPOSCREEN.jpg)
-
+![App Screenshot](assets/desi.jpeg)
 
 
