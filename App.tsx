@@ -7,7 +7,7 @@ export default function App() {
       <Text style={{ fontSize: 24 }}>
         My name is{" "}
         <Text style={{ fontWeight: "bold" }}>
-         Issaka Issifu
+         AGALISI DESMOND
         </Text>
       </Text>
       <StatusBar style="auto" />

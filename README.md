@@ -2,18 +2,18 @@
 
 This project is an assignment for DCIT202 MOBILE APPLICATION DEVELOPMENT.
 
-## Description
+## Student ID
 
-The task was to:
-- Change the background color of the View component.
-- Edit the Text component to display "My name is Sulemana Abdul-Haafiz Bundana".
-- Increase the font size of the text to 24.
-- Make the name "Sulemana Abdul-Haafiz Bundana" bold.
+Student ID: 11081933
+
+## Description
+This project is a simple React Native application that changes the background color and displays the user's name in bold text. The application is built using Expo CLI and uses React Native components to create the user interface.
+
+## Task
+The task for this project was to create a React Native application that changes the background color and displays the user's name in bold text.
 
 ## Screenshot
 ![App Screenshot](assets/EXPOSCREEN.jpg)
 
-## Student ID
 
-Student ID: 11140508
 
